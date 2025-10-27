@@ -1361,7 +1361,7 @@ body {
   background-color: rgba(18, 30, 40, 1);
   height: 168px;
   margin-top: 250px;
-  
+
 }
 
 .footer-container01-texts {
@@ -1403,4 +1403,412 @@ body {
   margin-left: 250px;
 }
 
+.footer4-blok1 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: rgba(255, 200, 3, 1);
+  border-radius: 15px;
+  height: 84px;
+  width: 280px;
+  padding: 0 20px;
+  box-shadow: 0px 0px 5px rgba(77, 55, 5, 1);
+}
 
+.footer4-blok2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: rgba(226, 193, 249, 1);
+  border-radius: 15px;
+  height: 84px;
+  width: 280px;
+  padding: 0 20px;
+  box-shadow: 0px 0px 5px rgba(64, 53, 75, 1);
+}
+
+.pinkgoose4-contcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pinkgoose4-maincontainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 1096px;
+  width: 942px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 200px;
+}
+
+.pinkgoose4-maintext {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 54px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
+}
+
+.pinkgoose4-container1 {
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 50px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  height: 68px;
+  width: 506px;
+}
+
+.pinkgoose4-container1-text {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-container2 {
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 25px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  height: 68px;
+  width: 506px;
+}
+
+.pinkgoose4-container2-text {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-container3 {
+  display: flex;
+  align-items: start;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 25px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  height: 310px;
+  width: 506px;
+}
+
+.pinkgoose4-container3-text {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.pinkgoose4-container4 {
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 25px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  height: 68px;
+  width: 506px;
+}
+
+.pinkgoose4-container4-text {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkarrow-down {
+  height: 20px;
+  width: 20px;
+  margin-left: 250px;
+}
+
+.pinkgoose4-container5 {
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgba(18, 30, 40, 1);
+  border-color: rgba(61, 76, 91, 1);
+  height: 203px;
+  width: 504px;
+}
+
+.pinkgoose4-container5-texten {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 5px;
+  row-gap: 30px;
+}
+
+.pinkgoose4-container5-text1 {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-container5-text2 {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-container5-text3 {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-container5-text4 {
+  color: rgba(61, 76, 91, 1);
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin-left: 25px;
+}
+
+.pinkgoose4-mainbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(206, 170, 255, 1);
+  height: 68px;
+  width: 175px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 700px;
+}
+
+.pinkgoose4-button-text {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main2-text2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 54px;
+  color: white;
+}
+
+.flex2justifycontent2 {
+  display: flex;
+  margin-top: 200px;
+  margin-left: 250px;
+}
+
+
+.pinkgoose3-blokken-tekst {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 54px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+  margin-top: 100px;
+}
+
+
+.pinkgoose3-blokken {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.pinkgoose3-blok1 {
+  background-color: rgba(255, 180, 211, 1);
+  height: 334px;
+  width: 352px;
+  border-radius: 25px;
+  margin-top: 150px;
+}
+
+.pinkgoose3-team1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  width: 160px;
+  border-radius: 25px;
+  margin-left: 90px;
+  margin-top:25px;
+}
+
+.pinkgoose3-name {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.pinkgoose3-team1-name {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-right: 150px;
+}
+
+.pinkgoose3-team1-text {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  margin-top: 25px;
+  margin-left: 45px
+}
+
+.pinkgoose3-contact1 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  margin-left: 150px;
+}
+
+.pinkgoose3-blok2 {
+  background-color: rgba(255, 180, 211, 1);
+  height: 334px;
+  width: 352px;
+  border-radius: 25px;
+  margin-top: 150px;
+}
+
+.pinkgoose3-team2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  width: 160px;
+  border-radius: 25px;
+  margin-left: 90px;
+  margin-top:25px;
+}
+
+.pinkgoose3-name1 {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.pinkgoose3-team1-name1 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-right: 150px;
+}
+
+.pinkgoose3-team1-text1 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  margin-top: 25px;
+  margin-left: 45px
+}
+
+.pinkgoose3-contact2 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  margin-left: 150px;
+} 
+
+.pinkgoose3-blok3 {
+  background-color: rgba(255, 180, 211, 1);
+  height: 334px;
+  width: 352px;
+  border-radius: 25px;
+  margin-top: 150px;
+}
+
+.pinkgoose3-team3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  width: 160px;
+  border-radius: 25px;
+  margin-left: 90px;
+  margin-top:25px;
+}
+
+.pinkgoose3-name2 {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.pinkgoose3-team1-name2 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-right: 150px;
+}
+
+.pinkgoose3-team1-text2 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  margin-top: 25px;
+  margin-left: 27px
+}
+
+.pinkgoose3-contact3 {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  margin-left: 150px;
+} 
